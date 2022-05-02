@@ -1,0 +1,105 @@
+**************************************************
+* PROGRAMMED BY : Justin Gea
+* STUDENT ID    : 1221198
+* CLASS         : CS1B - MW: 7:30p - 9:50p
+* ASSIGNMENT #4 : Recursion Performance
+**************************************************
+
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 1
+
+Enter a number to calculate the factorial: 10
+
+Recursive Factorial of 10: 3628800
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 2
+
+Enter a number to calculate the Fibonacci series: 20
+
+Recursive Fibonacci Series of 20: 6765
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 3
+
+Enter a number to calculate the factorial: 9
+
+The recursive factorial took 43 microseconds to execute
+The iterative factorial took 16 microseconds to execute
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 3
+
+Enter a number to calculate the factorial: 15
+
+The recursive factorial took 67 microseconds to execute
+The iterative factorial took 29 microseconds to execute
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 4
+
+Enter a number to calculate the Fibonacci series: 15
+
+The recursive Fibonacci series took 9249 microseconds to execute
+The iterative Fibonacci series took 42 microseconds to execute
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 4
+
+Enter a number to calculate the Fibonacci series: 30
+
+The recursive Fibonacci series took 11977620 microseconds to execute
+The iterative Fibonacci series took 91 microseconds to execute
+
+MENU OPTIONS
+
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+
+Enter an option (0 to exit): 0
